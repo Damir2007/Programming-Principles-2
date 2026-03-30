@@ -70,7 +70,7 @@ def delete_contact():
     print("Deleted!")
 
 
-# 🔥 МЕНЮ
+
 while True:
     print("\n1 - Add")
     print("2 - Show")
